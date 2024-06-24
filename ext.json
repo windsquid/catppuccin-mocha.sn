@@ -1,0 +1,17 @@
+---
+metatype: json
+---
+
+{
+  "identifier": "org.yourdomain.my-markdown-editor",
+  "name": "My Markdown Editor",
+  "content_type": "SN|Component",
+  "area": "editor-editor",
+  "version": "1.0.0",
+  "description": "A fully featured Markdown editor that supports live preview, a styling toolbar, and split pane support.",
+  "url": "https://domain.org/link-to-hosted-plugin",
+  "download_url": "https://github.com/windsquid/sn.catppuccin/ext.json",
+  "latest_url": "https://listed.to/my-plugin-json-link",
+  "marketing_url": "https://standardnotes.com/features/advanced-markdown",
+  "thumbnail_url": "https://domain.org/editors/adv-markdown.jpg"
+}
