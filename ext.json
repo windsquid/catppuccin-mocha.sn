@@ -3,13 +3,13 @@
   "name": "Catpuccin",
   "content_type": "SN|Theme",
   "area": "themes",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "description": "Catpuccin theme for Standard Notes",
-  "url": "https://cdn.jsdelivr.net/gh/windsquid/sn.catppuccin@v1.0.3/dist/dist.css",
-  "download_url": "https://github.com/windsquid/sn.catppuccin/archive/refs/tags/v1.0.3.zip",
-  "latest_url": "https://cdn.jsdelivr.net/gh/windsquid/sn.catppuccin@main/ext.json",
-  "marketing_url": "https://github.com/windsquid/sn.catppuccin",
-  "thumbnail_url": "https://github.com/windsquid/sn.catppuccin/preview.png"
+  "url": "https://cdn.jsdelivr.net/gh/windsquid/catppuccin@v1.0.0/dist/dist.css",
+  "download_url": "https://github.com/windsquid/catppuccin/archive/refs/tags/v1.0.0.zip",
+  "latest_url": "https://cdn.jsdelivr.net/gh/windsquid/catppuccin@main/ext.json",
+  "marketing_url": "https://github.com/windsquid/catppuccin",
+  "thumbnail_url": "https://github.com/windsquid/catppuccin/preview.png"
   "dock_icon": {
     "type": "circle",
     "background_color": "#bd93f9",
