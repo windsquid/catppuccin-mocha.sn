@@ -3,10 +3,10 @@
   "name": "Catpuccin",
   "content_type": "SN|Theme",
   "area": "themes",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Catpuccin theme for Standard Notes",
-  "url": "https://cdn.jsdelivr.net/gh/windsquid/catppuccin-mocha.sn@v1.0.1/dist/dist.css",
-  "download_url": "https://github.com/windsquid/catppuccin-mocha.sn/archive/refs/tags/v1.0.1.zip",
+  "url": "https://cdn.jsdelivr.net/gh/windsquid/catppuccin-mocha.sn@v1.0.2/dist/dist.css",
+  "download_url": "https://github.com/windsquid/catppuccin-mocha.sn/archive/refs/tags/v1.0.2.zip",
   "latest_url": "https://cdn.jsdelivr.net/gh/windsquid/catppuccin-mocha.sn@main/ext.json",
   "marketing_url": "https://github.com/windsquid/catppuccin-mocha.sn",
   "thumbnail_url": "https://github.com/windsquid/catppuccin-mocha.sn/preview.png"
