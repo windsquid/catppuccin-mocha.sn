@@ -10,11 +10,4 @@
   "latest_url": "https://cdn.jsdelivr.net/gh/windsquid/catppuccin.sn@main/ext.json",
   "marketing_url": "https://github.com/windsquid/catppuccin.sn",
   "thumbnail_url": "https://github.com/windsquid/catppuccin.sn/preview.png"
-  "dock_icon": {
-    "type": "circle",
-    "background_color": "#bd93f9",
-    "foreground_color": "#bd93f9",
-    "border_color": "#bd93f9"
-  },
-  "statusBar": "dark-content"
 }
