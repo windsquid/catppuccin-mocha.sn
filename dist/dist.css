@@ -11,9 +11,9 @@
   --purple: #cba6f7;
   --cyan: #74c7ec;
   --yellow: #f9e2af;
-  --bar-color: rgb(32, 34, 49);
+  --bar-color: rgb(30, 30, 46);
   --darker-background: rgb(25, 26, 33);
-  --darker-background-border: rgb(32, 34, 49);
+  --darker-background-border: rgb(30, 30, 46);
 
   --sn-stylekit-accessory-tint-color-1: var(--purple);
   --sn-stylekit-accessory-tint-color-2: var(--pink);
