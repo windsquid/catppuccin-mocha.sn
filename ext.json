@@ -1,8 +1,8 @@
 {
-  "identifier": "org.yourdomain.my-theme",
+  "identifier": "windsquid.sn.theme.catpuccin",
   "name": "catpuccin theme",
   "content_type": "SN|Theme",
-  "area": "theme",
+  "area": "themes",
   "version": "1.0.0",
   "description": "catpuccin theme",
   "url": "https://cdn.jsdelivr.net/gh/windsquid/sn.catppuccin@main/src/main.scss",
