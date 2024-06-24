@@ -1,7 +1,3 @@
----
-metatype: json
----
-
 {
   "identifier": "org.yourdomain.my-markdown-editor",
   "name": "My Markdown Editor",
