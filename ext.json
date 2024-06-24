@@ -5,7 +5,7 @@
   "area": "theme",
   "version": "1.0.0",
   "description": "catpuccin theme",
-  "url": "https://github.com/windsquid/sn.catppuccin/blob/main/src/main.scss",
+  "url": "https://cdn.jsdelivr.net/gh/windsquid/sn.catppuccin@main/src/main.scss",
   "download_url": "https://github.com/windsquid/sn.catppuccin/archive/refs/tags/v1.0.0.zip",
   "latest_url": "https://github.com/windsquid/sn.catppuccin",
   "marketing_url": "https://github.com/windsquid/sn.catppuccin",
